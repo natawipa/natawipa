@@ -6,7 +6,7 @@
   📫 Reach me at: <strong>natawipa2005@gmail.com</strong>
 </p>
 
----
+
 
 ### 🛠️ Languages & Tools
 
@@ -27,7 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
 </p>
 
----
+
 
 ### 🌐 Connect with me
 
@@ -40,7 +40,7 @@
   </a>
 </p>
 
----
+
 
 ### 📈 GitHub Stats
 
